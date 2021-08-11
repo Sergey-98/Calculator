@@ -66,17 +66,8 @@ body {
 }
 
 .button.clear.press {
-  margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
-  width:150px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  padding-left: 0;
-  padding-right: 0;
-  /*flex-grow: 1;*/
-  font-size: 24px;
-  line-height: normal;
 }
 
 .key {
