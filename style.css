@@ -65,7 +65,7 @@ body {
   background-image: linear-gradient(to bottom, #4d6398, #334266);
 }
 
-.key {
+.key, .press, .clear {
   width:150px;
   margin-right: 5px;
   margin-bottom: 5px;
