@@ -65,12 +65,12 @@ body {
   background-image: linear-gradient(to bottom, #4d6398, #334266);
 }
 
-.button.clear {
+/*.button.clear {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
 }
-
+*/
 .key {
   width:150px;
   margin-right: 5px;
