@@ -10,7 +10,7 @@ for (let key of keys) {
 };
 
 press.onclick = function () {
-  display.textContent = 'вы ввели текс';
+  display.textContent = display.textContent + "вы ввели текст";
 };
 
 clear.onclick = function () {
